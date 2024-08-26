@@ -25,7 +25,7 @@ Languages:
       Value: "READY | STEADY | PLAY!"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7d9820e1-a995-4f8e-83b4-92aa00866f29"
+      Value: "9f120536-8569-40da-8d56-b5b41dcf5462"
     - ID: "957519d5-5c6b-40c0-b462-b1dac8f12a03"
       Hint: Eyebrow
       Value: Sports and Recreation Expo
@@ -34,7 +34,7 @@ Languages:
       Value: "<p>Join us in person or online for the fifth annual <strong>PLAY!</strong> Summit.</p>"
     - ID: "e2d35418-b6ed-4838-90cb-26f98c1d7586"
       Hint: Title
-      Value: Raise Your Game
+      Value: Raise Your Game1
 - Language: "fr-CA"
   Versions:
   - Version: 1
