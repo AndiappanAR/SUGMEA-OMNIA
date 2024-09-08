@@ -166,7 +166,7 @@ Languages:
       Value: <r />
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
       Hint: Title
-      Value: Homyyyy
+      Value: Home from local
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
@@ -175,7 +175,7 @@ Languages:
       Value: home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ab2ee96e-bc0a-4daa-9db4-2dd9088893db"
+      Value: "2a3464eb-254c-48c4-af58-d205f1bffb38"
 - Language: "fr-CA"
   Versions:
   - Version: 1
