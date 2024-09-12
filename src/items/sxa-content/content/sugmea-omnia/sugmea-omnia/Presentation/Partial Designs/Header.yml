@@ -1,0 +1,54 @@
+﻿---
+ID: "e90bd980-7a64-439f-aed0-6aa711be6aed"
+Parent: "dff81bd3-295b-4b04-acae-9909701f7b73"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/sugmea-omnia/sugmea-omnia/Presentation/Partial Designs/Header"
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E27CC0C4-F269-4884-961E-014FE10C7779}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A0414520-F2C9-4BB9-BF66-C19AA2E81987}"
+          p:before="*"
+          s:ds="local:/Data/Title"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b55BC042E-FA0E-4518-8ED5-22A408779632%7d&amp;FieldNames=%7b83B62D7B-F566-4628-89C0-8E9D57E248FD%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d"
+          s:ph="headless-header" />
+        <r
+          uid="{BD9CDF0C-54A0-411C-B5DF-EE0748777D5A}"
+          p:after="*[1=2]"
+          s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+          s:par="?LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;FieldNames=%7bF453D63E-5152-424B-8CF1-C3EE0165ABC1%7d&amp;AddRoot=1&amp;Styles=%7b1C126888-304A-40A5-A82D-25E8DC92F5DF%7d%7c%7b0786E0B6-FF77-4710-A404-578E091F5FE5%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;NavigationRoot=%7b2BEADC81-AE63-4A4F-8611-2F356A85C448%7d"
+          s:ph="headless-header" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D044EFED-079F-4CB1-9D22-E7BFF1DB5A8F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6eefa098-750b-48fe-ad34-4b9efce620f0"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d0daf7e-abfd-4684-b594-e25d12556bfb"

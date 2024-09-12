@@ -1,0 +1,13 @@
+﻿---
+ID: "e226749f-63a0-4926-a122-2452272c6989"
+Parent: "0a0d677e-57bd-44ae-9e32-c46c6dc74817"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/sugmea-omnia/sugmea-omnia/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b40ac7d-bc16-45c5-a109-a86780dc39d9"

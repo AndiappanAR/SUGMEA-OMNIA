@@ -1,0 +1,13 @@
+﻿---
+ID: "3339e30f-3f80-4bf3-a2bc-60e65f33afd1"
+Parent: "b7210917-0a15-43a5-a8c2-dda07cf43780"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/sugmea-omnia/sugmea-omnia/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67fae8e6-b96e-41e9-9306-1d0fe9fd91dd"

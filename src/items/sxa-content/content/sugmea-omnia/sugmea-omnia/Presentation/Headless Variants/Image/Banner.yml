@@ -1,0 +1,17 @@
+﻿---
+ID: "79a879a2-0ac3-4e33-8295-ebc4b44169bf"
+Parent: "98509e00-0d9f-47a2-8c2a-06398d180932"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/sugmea-omnia/sugmea-omnia/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01a92714-d31f-4eaf-8abf-f21f67fd6064"

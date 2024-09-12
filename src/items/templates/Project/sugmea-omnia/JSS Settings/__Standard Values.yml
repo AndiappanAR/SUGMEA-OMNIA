@@ -1,0 +1,13 @@
+﻿---
+ID: "67aa8e03-1527-4688-984c-0b873ca03e5d"
+Parent: "1f7be7f3-6b86-435c-b135-30d9b27f6249"
+Template: "1f7be7f3-6b86-435c-b135-30d9b27f6249"
+Path: "/sitecore/templates/Project/sugmea-omnia/JSS Settings/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7285930f-7d4d-4239-aac9-47e507df705d"

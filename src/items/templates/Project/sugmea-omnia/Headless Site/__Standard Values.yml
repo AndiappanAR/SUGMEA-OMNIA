@@ -1,0 +1,13 @@
+﻿---
+ID: "ed9edd3c-81b6-4be1-bded-ae049e61a07a"
+Parent: "b19f7c13-7a8b-4eff-9716-01383e2eebcd"
+Template: "b19f7c13-7a8b-4eff-9716-01383e2eebcd"
+Path: "/sitecore/templates/Project/sugmea-omnia/Headless Site/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2371cd97-3688-4e57-9189-ae4b51edbf15"

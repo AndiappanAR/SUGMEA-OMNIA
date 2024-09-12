@@ -1,0 +1,50 @@
+﻿---
+ID: "b19caa50-43d3-4c00-b36b-82d4fbaa19b2"
+Parent: "2beadc81-ae63-4a4f-8611-2f356a85c448"
+Template: "f5efeabf-8818-42b4-b278-8254f7101e86"
+Path: "/sitecore/content/sugmea-omnia/sugmea-omnia/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{AD513A5A-E1C6-48EA-87C2-20F504FB1324}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D561F09E-58F3-4DEB-BFB8-4AFFD0656DFC}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b19B7877B-0FB2-4C60-BD1F-83DD6C2C225D%7d%7c%7b5554D00A-672C-4269-9C45-5D32AD009051%7d%7c%7b0F5B5EC4-D643-4508-B622-C9F2C908513D%7d%7c%7b1C77C535-FD6F-40CA-ABD7-F1C67DE93923%7d%7c%7bEE3CE4FF-A9D2-4B6C-BD8A-BAB49119C9CF%7d%7c%7bD9D5FEB0-27A8-4C65-82DD-7F69EAA48CE9%7d%7c%7bE832D5B6-4776-4BFF-9524-AA724779E6DC%7d%7c%7bDD6691FB-65CD-4A74-8235-65CD790FB012%7d%7c%7b3B3E24B9-14AF-4438-A037-4ABFAF353EC8%7d%7c%7bBEAE0869-6110-4E2B-BFAF-A6B52C9C8E1B%7d%7c%7bAAA4A77F-8C56-4E4E-8C67-FBD6A895A1E3%7d%7c%7b8E5212BF-6FDE-456E-A7DE-EB9B9F558870%7d%7c%7bD952B053-BCC1-4E26-80F5-AE545EA0CEAA%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{5B948789-AE82-4262-875E-6F079132E0BD}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b83B62D7B-F566-4628-89C0-8E9D57E248FD%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fb6a6d5-4464-45b1-aaa1-28e33f1373a5"
+      Hint: Title
+      Value: About
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae0a6a5e-298c-42a4-9ae0-fdf712bf0329"

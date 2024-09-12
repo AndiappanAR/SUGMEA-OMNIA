@@ -1,0 +1,23 @@
+﻿---
+ID: "1df21910-4c34-49bc-8b85-efd6eb60cb47"
+Parent: "8ad97e3a-902b-4f45-b5c0-6a7c6f105bbb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/sugmea-omnia/Partial Designs"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_selection.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{79C9FA01-5F6A-48B2-B459-05BBAA826A9D}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{E984348C-32EB-4F43-8047-0B36A8EF11BB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "089e709c-7045-44f3-9d79-272b3ad7cceb"

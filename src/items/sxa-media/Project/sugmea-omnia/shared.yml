@@ -1,0 +1,13 @@
+﻿---
+ID: "a568e95a-dac7-4803-962f-88e3847b71bd"
+Parent: "4de30553-e462-4726-b456-5a8b96af61a9"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/sugmea-omnia/shared"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "775a1580-0cdc-42ce-a01f-7ce1ad84c794"

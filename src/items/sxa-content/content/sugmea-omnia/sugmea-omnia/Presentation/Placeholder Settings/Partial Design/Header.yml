@@ -1,0 +1,17 @@
+﻿---
+ID: "c3d47953-6db7-466a-befd-3fe62a4e0f76"
+Parent: "3339e30f-3f80-4bf3-a2bc-60e65f33afd1"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/sugmea-omnia/sugmea-omnia/Presentation/Placeholder Settings/Partial Design/Header"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4da38f7-72ab-4e06-9444-58376aa4cf7d"
