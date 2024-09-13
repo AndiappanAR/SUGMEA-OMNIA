@@ -1,0 +1,17 @@
+﻿---
+ID: "1d22ae07-0e5b-46e0-8d09-0aa71a252f79"
+Parent: "ec875dff-8d63-423f-b65f-c303ee077963"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/Navigation/Header/Eyebrow/About Author
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e62c418-1830-4313-be74-f055ddcd1b90"
+    - ID: "a277748b-2c48-44a6-a99f-c9f353933027"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.omnia.ae" anchor="" target="" />

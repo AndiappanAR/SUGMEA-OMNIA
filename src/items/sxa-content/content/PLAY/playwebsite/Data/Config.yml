@@ -18,7 +18,7 @@ Languages:
     - ID: "32c00ea7-b305-40e4-b9be-e03a92b05ae3"
       Hint: HeaderLogo
       Value: |
-        <image mediaid="{38E3FCD0-511D-4EF2-9835-64CF10AB25E5}" />
+        <image mediaid="{57AE0478-2F5E-4895-A47D-3784AFC95068}" />
     - ID: "3971a645-b079-4bc3-9971-bf655b7713fa"
       Hint: Startdate
       Value: 20210909T060000Z
@@ -27,11 +27,11 @@ Languages:
       Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ad581116-a0ed-4127-9da8-5357bd92a0d9"
+      Value: "748826e6-9d54-4f31-a5da-3c1f1ae7354a"
     - ID: "af909783-3a24-4708-b431-192e9b0c98b6"
       Hint: FooterLogo
       Value: |
-        <image mediaid="{38E3FCD0-511D-4EF2-9835-64CF10AB25E5}" />
+        <image mediaid="{57AE0478-2F5E-4895-A47D-3784AFC95068}" />
     - ID: "b43d2551-9059-413a-92be-74ea74142c22"
       Hint: SiteBrowserTitle
       Value: "Play! Summit"
