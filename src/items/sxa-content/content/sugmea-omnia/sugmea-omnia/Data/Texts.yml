@@ -1,0 +1,13 @@
+﻿---
+ID: "366e2adc-c85b-4ef6-931c-23a429bee3f0"
+Parent: "cf966749-dd5d-4e9e-b3f3-c64185e85554"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/sugmea-omnia/sugmea-omnia/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5368796b-97c1-4bd2-82cf-296b119929ab"

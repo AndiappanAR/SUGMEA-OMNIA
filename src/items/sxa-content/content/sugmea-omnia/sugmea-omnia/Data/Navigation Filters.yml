@@ -1,0 +1,13 @@
+﻿---
+ID: "291c2756-c33a-4045-b467-8da9a47fb170"
+Parent: "cf966749-dd5d-4e9e-b3f3-c64185e85554"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/sugmea-omnia/sugmea-omnia/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4ea89b4-285a-4b26-9b4f-ce04e301d5c6"

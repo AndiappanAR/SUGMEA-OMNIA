@@ -1,0 +1,13 @@
+﻿---
+ID: "1fd5548b-b1f0-402c-8d4c-9fc2c8236e36"
+Parent: "cf966749-dd5d-4e9e-b3f3-c64185e85554"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/sugmea-omnia/sugmea-omnia/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0b60078-bb36-4ddb-8031-1a154a6db970"

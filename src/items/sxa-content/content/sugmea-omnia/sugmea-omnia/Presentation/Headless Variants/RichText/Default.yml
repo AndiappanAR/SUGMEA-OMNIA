@@ -1,0 +1,18 @@
+﻿---
+ID: "83b62d7b-f566-4628-89c0-8e9d57e248fd"
+Parent: "6c417642-f8c5-46af-9794-3fd8fdfac9a8"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/sugmea-omnia/sugmea-omnia/Presentation/Headless Variants/RichText/Default"
+BranchID: "6d954d26-5ba2-4e17-9260-28fdc6b057d0"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DF1847D5-271E-47E0-8630-8E9BEAFE60B3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffa7be22-f937-407d-975c-80a2d2f21c8d"
