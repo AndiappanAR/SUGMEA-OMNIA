@@ -1,6 +1,6 @@
 ﻿---
-ID: "4cbe34cc-50ca-47a9-93ad-82770ab802ff"
-Parent: "24d2424e-1fa1-419a-980d-1a49b4bc4dcc"
+ID: "74f790fb-7579-4d5a-82ee-3b612ea5b970"
+Parent: "6a39b812-a784-4826-9659-f8583e67ac5a"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: "/sitecore/media library/Project/sugmea-omnia/sugmea-omnia/System/2/B"
 Languages:
@@ -10,4 +10,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3f29cc17-c8c0-498f-81c5-858eb470ce1a"
+      Value: "b4769a7e-d69b-440f-b8d3-935e48c0ba0d"

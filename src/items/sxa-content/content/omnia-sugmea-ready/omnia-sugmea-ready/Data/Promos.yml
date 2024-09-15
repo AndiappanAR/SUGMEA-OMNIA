@@ -1,0 +1,13 @@
+﻿---
+ID: "d1658fb2-c67e-490d-8bd0-92849100d67d"
+Parent: "f051ef67-a2a6-463d-8d36-a0b574568b5b"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/omnia-sugmea-ready/omnia-sugmea-ready/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca82a895-eb60-48d1-9a4f-3de609033744"

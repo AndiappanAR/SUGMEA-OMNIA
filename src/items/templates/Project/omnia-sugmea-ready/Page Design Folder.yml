@@ -1,0 +1,23 @@
+﻿---
+ID: "de5cb9ad-3a47-4691-be2c-1c90a5372ea3"
+Parent: "b61827f8-a706-4b10-9801-615d69dd96c1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/omnia-sugmea-ready/Page Design Folder"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_chart.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{023F5D48-979D-4381-BC5E-149E36ABD3BD}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{06369D31-DE2B-4B1C-9C47-445671AD2177}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f7e143b-1b7a-48ad-b4fd-d1e0b581b7e9"

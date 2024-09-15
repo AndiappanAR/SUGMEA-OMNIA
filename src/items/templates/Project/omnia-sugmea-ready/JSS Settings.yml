@@ -1,0 +1,28 @@
+﻿---
+ID: "c4f69994-7b7f-44a9-a3c9-8b0c43ef9d12"
+Parent: "b61827f8-a706-4b10-9801-615d69dd96c1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/omnia-sugmea-ready/JSS Settings"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/gearwheels.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {EC848505-D30C-4BDC-A0AA-7CC9D320085E}
+    {A7228B46-610D-4A17-9F61-649F3A30AAAE}
+    {6175F4C7-F87F-4F7F-928E-4C5CA5DFFAF4}
+    {2AF2DC09-057F-48C2-A9F4-9779ADF83659}
+    {30869218-C3AD-40F9-BCFF-6837127ECD8F}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{257B527A-A368-4FCA-BE81-2444F0A0EB5D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "572f414d-8c69-447a-8c1d-4a5de7c48158"

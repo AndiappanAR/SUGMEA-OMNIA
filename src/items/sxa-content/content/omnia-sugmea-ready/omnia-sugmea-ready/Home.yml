@@ -1,0 +1,61 @@
+﻿---
+ID: "71bcffed-cb3a-473d-9765-b3f46ab67617"
+Parent: "51c6ab3d-92f1-42c5-aa97-24ba32bea39d"
+Template: "7730b6a2-aed6-4a40-be8d-5f64cb5f7e25"
+Path: "/sitecore/content/omnia-sugmea-ready/omnia-sugmea-ready/Home"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F8578428-019C-4216-85D2-57A76A853F59}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{439793F5-7B47-4093-8ED6-E5EEC6EA3C04}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?DynamicPlaceholderId=1&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d"
+          s:ph="headless-main" />
+        <r
+          uid="{735B8E9E-7568-4649-8EC8-2A3695DE1DFB}"
+          p:after="r[@uid='{439793F5-7B47-4093-8ED6-E5EEC6EA3C04}']"
+          s:ds="local:/Data/Text 2"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b1BD2F83C-4D96-4104-A2CD-DDDD28529E2C%7d&amp;FieldNames=%7b12DA79EC-2300-4897-8E50-C967461DC511%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b271DE3B1-089F-4977-95EC-B5E51446FC01%7d%7c%7b1B189E02-FFC9-4ADC-84E5-D2AB5F6EC0FB%7d"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{6ABA6AE2-AA29-46C7-835D-D8298BB0CC5A}"
+          p:after="r[@uid='{735B8E9E-7568-4649-8EC8-2A3695DE1DFB}']"
+          s:ds="local:/Data/PromoLeft"
+          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+          s:par="?Styles=%7b3C799798-2651-4D2A-968C-4DEBE78643D2%7d&amp;FieldNames=%7bF760E146-50DA-46F3-B0FE-5410C64B3D48%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d%7c%7b41E4B2ED-E813-46F9-8455-C26C88E78D47%7d%7c%7b1D84575C-B71C-40B2-BE7E-65503BCD666E%7d"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{1F06812C-D265-4327-8405-3CE25AFBDEE3}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/PromoRight"
+          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+          s:par="?Styles=%7b3C799798-2651-4D2A-968C-4DEBE78643D2%7d%7c%7b86C246C7-E524-4C6F-AF18-691A5B5F367A%7d&amp;FieldNames=%7bF760E146-50DA-46F3-B0FE-5410C64B3D48%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d%7c%7b41E4B2ED-E813-46F9-8455-C26C88E78D47%7d%7c%7b1D84575C-B71C-40B2-BE7E-65503BCD666E%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99050ada-0e6e-4b09-8893-6f97fe9d7670"
+    - ID: "e7a41ca3-c205-4570-a282-cffc45343758"
+      Hint: Title
+      Value: Home

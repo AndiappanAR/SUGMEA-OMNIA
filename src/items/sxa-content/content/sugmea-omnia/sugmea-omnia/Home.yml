@@ -3,12 +3,11 @@ ID: "2beadc81-ae63-4a4f-8611-2f356a85c448"
 Parent: "55eb1df9-713f-4167-8803-2d82948aa4a9"
 Template: "f5efeabf-8818-42b4-b278-8254f7101e86"
 Path: "/sitecore/content/sugmea-omnia/sugmea-omnia/Home"
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{054C847F-532F-4454-9919-FE7B6D5D8B01}" />
+    <image mediaid="{329ECF00-FD0E-414C-B39C-76F4C2CC4C4C}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -75,4 +74,4 @@ Languages:
       Value: Home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f33136bb-0f37-4057-ab92-d019e2de43dd"
+      Value: "7473b8df-b285-42f3-ac32-495a591433e2"

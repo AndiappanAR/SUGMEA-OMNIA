@@ -1,0 +1,13 @@
+﻿---
+ID: "3ef02c05-4509-4610-82f4-cd05e574f8c7"
+Parent: "f051ef67-a2a6-463d-8d36-a0b574568b5b"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/omnia-sugmea-ready/omnia-sugmea-ready/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "128d37a0-8a16-4295-bf41-f1a6fcba2041"

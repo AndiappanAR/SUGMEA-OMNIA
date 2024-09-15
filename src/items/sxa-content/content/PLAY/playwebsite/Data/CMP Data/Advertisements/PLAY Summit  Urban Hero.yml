@@ -25,16 +25,16 @@ Languages:
       Value: "READY | STEADY | PLAY!"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "56313ec8-a4a6-4eef-9ac3-703cbe8a9978"
+      Value: "897870fb-3c02-4fa6-a239-ff3002eef846"
     - ID: "957519d5-5c6b-40c0-b462-b1dac8f12a03"
       Hint: Eyebrow
-      Value: Sports and Recreation Expo
+      Value: "Here ! - is the landing page."
     - ID: "c068953c-33ee-4889-b473-395d5e0aea0f"
       Hint: Body
-      Value: "<p>Join us in person or online for the fifth annual <strong>PLAY!</strong> Summit.</p>"
+      Value: "<p>Explore the XM cloud <strong>MIGRATION! </strong> considerations. </p>"
     - ID: "e2d35418-b6ed-4838-90cb-26f98c1d7586"
       Hint: Title
-      Value: Raise Your Game1
+      Value: Landing page
 - Language: "fr-CA"
   Versions:
   - Version: 1

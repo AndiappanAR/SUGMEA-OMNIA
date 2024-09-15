@@ -15,7 +15,7 @@ SharedFields:
   Value: |
     query($language: String!) {
       item(path: "{68DC89A4-1B04-59A8-9C4E-3B49D6C61052}", language: $language) {
-        children(hasLayout: true, first: 4) {
+        children(hasLayout: true, first: 3) {
           total
           results {
             ... on Session {
@@ -92,4 +92,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3bd6aa11-2438-43a5-b568-8970318ef13a"
+      Value: "35f67d1a-ec25-40c5-8c58-299fb949340d"
