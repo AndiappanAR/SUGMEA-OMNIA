@@ -1,0 +1,18 @@
+﻿---
+ID: "07255938-2e59-404a-a087-33f6788db831"
+Parent: "e5315535-120f-49e0-b52e-7c7ed6d9290f"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/omnia-sugmea-ready/omnia-sugmea-ready/Presentation/Partial Designs/Footer/Data"
+BranchID: "2c702d41-d44e-4501-9be0-f4b7344bfaed"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5540558F-3B73-4250-A4A9-9A01FE16DC17}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b8358cc-7274-4333-90e1-24c4fd70a1be"

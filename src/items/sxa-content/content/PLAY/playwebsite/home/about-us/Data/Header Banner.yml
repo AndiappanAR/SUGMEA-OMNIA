@@ -14,10 +14,10 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5647edf4-a42c-477d-a613-64c869516b75"
+      Value: "36aa96d4-a545-4067-a07c-7f200eecd55c"
     - ID: "c9069b9e-8ffb-564d-8f08-5b3ab1a6c14f"
       Hint: title
-      Value: The World's Largest sports & Recreation expo
+      Value: About us
     - ID: "d2f0af85-24ce-5ea3-94c0-690d8c774a6d"
       Hint: eyebrow
       Value: "READY | STEADY | PLAY!"
@@ -27,4 +27,4 @@ Languages:
     - ID: "f6156be8-e8d4-5d94-8118-22f7a7540f69"
       Hint: backgroundImage
       Value: |
-        <image mediaid="{A214FBBE-F1CD-5911-AA4E-CD2C71EBA3C2}" alt="Sample Image" />
+        <image mediaid="{F7C1769F-2A40-42B9-83B2-EEF18A50B3DD}" />

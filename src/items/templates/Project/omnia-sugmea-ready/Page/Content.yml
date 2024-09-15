@@ -1,0 +1,13 @@
+﻿---
+ID: "ce797665-d15f-4c3f-93cb-a209ba0cf758"
+Parent: "7730b6a2-aed6-4a40-be8d-5f64cb5f7e25"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/omnia-sugmea-ready/Page/Content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9690a26-7a10-4bad-8d58-031a28d8d53d"

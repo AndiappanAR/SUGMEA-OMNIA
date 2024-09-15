@@ -19,19 +19,19 @@ Languages:
     - ID: "69e8418c-5f11-40a8-9c0d-9e5eacc1229e"
       Hint: Hero
       Value: |
-        <image stylelabs-content-id="30791" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/30791/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/333f460883dd4e3bb40f1bbd0910aa6b?v=9a26247e" mediaid="" stylelabs-content-type="Image" alt="cycling-banner.jpg" height="3813" width="5713" />
+        <image mediaid="{C170174F-8B77-453D-A10C-1AB20BB92F18}" />
     - ID: "81af116e-235f-44ad-a8e0-794bc3504c7c"
       Hint: Slogan
       Value: "READY | STEADY | PLAY!"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c4f54fd7-042e-42b5-95d4-b9ac5051c3fe"
+      Value: "4ec3330f-6af9-43f3-92bf-07fc8d203e49"
     - ID: "957519d5-5c6b-40c0-b462-b1dac8f12a03"
       Hint: Eyebrow
-      Value: Sports and Recreation Expo
+      Value: Explore the flexibility of GQL.
     - ID: "c068953c-33ee-4889-b473-395d5e0aea0f"
       Hint: Body
-      Value: "<p>Join us in person or online for an amazing event that you will remember forever!</p>"
+      Value: "<p>Explore the XM cloud <strong>GQL! </strong> considerations. </p>"
     - ID: "e2d35418-b6ed-4838-90cb-26f98c1d7586"
       Hint: Title
-      Value: The Event of a Lifetime
+      Value: GraphQL types

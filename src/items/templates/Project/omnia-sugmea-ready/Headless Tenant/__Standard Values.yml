@@ -1,0 +1,13 @@
+﻿---
+ID: "a2e4bbf8-cb00-4da1-98e1-806749c46fc6"
+Parent: "6abfca58-5cb9-4f85-a86a-e1c780bd694b"
+Template: "6abfca58-5cb9-4f85-a86a-e1c780bd694b"
+Path: "/sitecore/templates/Project/omnia-sugmea-ready/Headless Tenant/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4b5584d-6e42-4592-8d99-156a030c8463"

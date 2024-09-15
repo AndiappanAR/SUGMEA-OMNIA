@@ -1,0 +1,212 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "4LDvX8mcIK",
+    "componentId": "N74VSSeVSt",
+    "name": "Meta",
+    "description": "",
+    "status": "published",
+    "orderIdx": "00001",
+    "revision": 81,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: asBwEmOPVH */ .-grid--custom[data-instance-id=\"asBwEmOPVH\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"asBwEmOPVH\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 5; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } .-grid--custom[data-instance-id=\"asBwEmOPVH\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 1; grid-column-end: 5; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } .-grid--custom[data-instance-id=\"asBwEmOPVH\"] > :nth-child(3):not(._._._._._._#_) { grid-column: 5; grid-column-end: 13; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"asBwEmOPVH\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":3,\"column\":5},\"order\":0},{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":3,\"column\":5},\"order\":0},{\"from\":{\"row\":1,\"column\":5},\"to\":{\"row\":3,\"column\":13},\"order\":0}]}} */ /* --- */  /* Type: lines Id: hfq_jErGiZ Instance Id: mbf9rMs4TE */ .-lines--[data-instance-id=\"mbf9rMs4TE\"]:not(._._._._._._#_) { text-align: right; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"hfq_jErGiZ\",\"exampleContent\":null,\"instanceId\":\"mbf9rMs4TE\"},\"props\":{\"textAlign\":\"right\",\"lines\":null,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */ /* --- */  /* Type: lines Id: VCOsB-4Gl8 Instance Id: 3QYyLNH-v3 */ .-lines--[data-instance-id=\"3QYyLNH-v3\"]:not(._._._._._._#_) { text-align: left; ---self--display: -webkit-box; display: var(---self--display); -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"VCOsB-4Gl8\",\"exampleContent\":null,\"instanceId\":\"3QYyLNH-v3\"},\"props\":{\"textAlign\":\"left\",\"lines\":5,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */ /* --- */  /* Type: spacing Id: 5ccq3o5Sup Instance Id: x69-vIioBL */ .-spacing--[data-instance-id=\"x69-vIioBL\"]:not(._._._._._._#_) { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ---spacing--row-gap: 0px; ---spacing--column-gap: 0px; } .-spacing--[data-instance-id=\"x69-vIioBL\"] > *:not(._._._._._._#_) { ---layout--row-gap: 0px; ---layout--column-gap: 0px; } /* Data: {\"type\":\"spacing\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"5ccq3o5Sup\",\"exampleContent\":null,\"instanceId\":\"x69-vIioBL\"},\"props\":{\"paddingTop\":{\"value\":0,\"unit\":\"px\"},\"paddingBottom\":{\"value\":0,\"unit\":\"px\"},\"paddingLeft\":{\"value\":0,\"unit\":\"px\"},\"paddingRight\":{\"value\":0,\"unit\":\"px\"},\"rowGap\":{\"value\":0,\"unit\":\"px\"},\"columnGap\":{\"value\":0,\"unit\":\"px\"}}} */</style><section class=\"-grid--custom\" data-instance-id=\"asBwEmOPVH\" data-path-scope=\"lnxQhs6Vnd.*\"><h5 class=\"-heading5--eyebrow--accent -lines--\" data-instance-id=\"mbf9rMs4TE\"><var data-path=\"lnxQhs6Vnd.*.title\"></var></h5><div class=\"-spacing--\" data-instance-id=\"x69-vIioBL\"></div><p class=\"--cZkTwpHuio -lines--\" data-instance-id=\"3QYyLNH-v3\"><var data-path=\"lnxQhs6Vnd.*.body\"></var></p></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "lnxQhs6Vnd"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-09-14T22:15:12.201Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-09-14T23:05:56.079Z",
+    "modifiedBy": {
+      "id": "6343011e9652d0482a350b68",
+      "name": "andiappan.ravi@omnia.ae",
+      "givenName": "Andiappan AR",
+      "familyName": "Ravi",
+      "email": "andiappan.ravi@omnia.ae",
+      "picture": "https://s.gravatar.com/avatar/694d17026d98fef61d7508f1ee31b6a8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+      "nickname": "andiappan.ravi"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "4LDvX8mcIK",
+    "componentId": "N74VSSeVSt",
+    "name": "Meta",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "07gPs",
+    "revision": 81,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: asBwEmOPVH */ .-grid--custom[data-instance-id=\"asBwEmOPVH\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"asBwEmOPVH\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 5; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } .-grid--custom[data-instance-id=\"asBwEmOPVH\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 1; grid-column-end: 5; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } .-grid--custom[data-instance-id=\"asBwEmOPVH\"] > :nth-child(3):not(._._._._._._#_) { grid-column: 5; grid-column-end: 13; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"asBwEmOPVH\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":3,\"column\":5},\"order\":0},{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":3,\"column\":5},\"order\":0},{\"from\":{\"row\":1,\"column\":5},\"to\":{\"row\":3,\"column\":13},\"order\":0}]}} */ /* --- */  /* Type: lines Id: hfq_jErGiZ Instance Id: mbf9rMs4TE */ .-lines--[data-instance-id=\"mbf9rMs4TE\"]:not(._._._._._._#_) { text-align: right; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"hfq_jErGiZ\",\"exampleContent\":null,\"instanceId\":\"mbf9rMs4TE\"},\"props\":{\"textAlign\":\"right\",\"lines\":null,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */ /* --- */  /* Type: lines Id: VCOsB-4Gl8 Instance Id: 3QYyLNH-v3 */ .-lines--[data-instance-id=\"3QYyLNH-v3\"]:not(._._._._._._#_) { text-align: left; ---self--display: -webkit-box; display: var(---self--display); -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"VCOsB-4Gl8\",\"exampleContent\":null,\"instanceId\":\"3QYyLNH-v3\"},\"props\":{\"textAlign\":\"left\",\"lines\":5,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */ /* --- */  /* Type: spacing Id: 5ccq3o5Sup Instance Id: x69-vIioBL */ .-spacing--[data-instance-id=\"x69-vIioBL\"]:not(._._._._._._#_) { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ---spacing--row-gap: 0px; ---spacing--column-gap: 0px; } .-spacing--[data-instance-id=\"x69-vIioBL\"] > *:not(._._._._._._#_) { ---layout--row-gap: 0px; ---layout--column-gap: 0px; } /* Data: {\"type\":\"spacing\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"5ccq3o5Sup\",\"exampleContent\":null,\"instanceId\":\"x69-vIioBL\"},\"props\":{\"paddingTop\":{\"value\":0,\"unit\":\"px\"},\"paddingBottom\":{\"value\":0,\"unit\":\"px\"},\"paddingLeft\":{\"value\":0,\"unit\":\"px\"},\"paddingRight\":{\"value\":0,\"unit\":\"px\"},\"rowGap\":{\"value\":0,\"unit\":\"px\"},\"columnGap\":{\"value\":0,\"unit\":\"px\"}}} */</style><section class=\"-grid--custom\" data-instance-id=\"asBwEmOPVH\" data-path-scope=\"lnxQhs6Vnd.*\"><h5 class=\"-heading5--eyebrow--accent -lines--\" data-instance-id=\"mbf9rMs4TE\"><var data-path=\"lnxQhs6Vnd.*.title\"></var></h5><div class=\"-spacing--\" data-instance-id=\"x69-vIioBL\"></div><p class=\"--cZkTwpHuio -lines--\" data-instance-id=\"3QYyLNH-v3\"><var data-path=\"lnxQhs6Vnd.*.body\"></var></p></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "lnxQhs6Vnd"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-09-14T22:15:12.201Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-09-14T23:05:56.079Z",
+    "modifiedBy": {
+      "id": "6343011e9652d0482a350b68",
+      "name": "andiappan.ravi@omnia.ae",
+      "givenName": "Andiappan AR",
+      "familyName": "Ravi",
+      "email": "andiappan.ravi@omnia.ae",
+      "picture": "https://s.gravatar.com/avatar/694d17026d98fef61d7508f1ee31b6a8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+      "nickname": "andiappan.ravi"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "4LDvX8mcIK",
+    "componentId": "N74VSSeVSt",
+    "name": "Meta",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "07gPs",
+    "revision": 81,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: asBwEmOPVH */ .-grid--custom[data-instance-id=\"asBwEmOPVH\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"asBwEmOPVH\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 5; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } .-grid--custom[data-instance-id=\"asBwEmOPVH\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 1; grid-column-end: 5; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } .-grid--custom[data-instance-id=\"asBwEmOPVH\"] > :nth-child(3):not(._._._._._._#_) { grid-column: 5; grid-column-end: 13; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"asBwEmOPVH\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":3,\"column\":5},\"order\":0},{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":3,\"column\":5},\"order\":0},{\"from\":{\"row\":1,\"column\":5},\"to\":{\"row\":3,\"column\":13},\"order\":0}]}} */ /* --- */  /* Type: lines Id: hfq_jErGiZ Instance Id: mbf9rMs4TE */ .-lines--[data-instance-id=\"mbf9rMs4TE\"]:not(._._._._._._#_) { text-align: right; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"hfq_jErGiZ\",\"exampleContent\":null,\"instanceId\":\"mbf9rMs4TE\"},\"props\":{\"textAlign\":\"right\",\"lines\":null,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */ /* --- */  /* Type: lines Id: VCOsB-4Gl8 Instance Id: 3QYyLNH-v3 */ .-lines--[data-instance-id=\"3QYyLNH-v3\"]:not(._._._._._._#_) { text-align: left; ---self--display: -webkit-box; display: var(---self--display); -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"VCOsB-4Gl8\",\"exampleContent\":null,\"instanceId\":\"3QYyLNH-v3\"},\"props\":{\"textAlign\":\"left\",\"lines\":5,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */ /* --- */  /* Type: spacing Id: 5ccq3o5Sup Instance Id: x69-vIioBL */ .-spacing--[data-instance-id=\"x69-vIioBL\"]:not(._._._._._._#_) { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ---spacing--row-gap: 0px; ---spacing--column-gap: 0px; } .-spacing--[data-instance-id=\"x69-vIioBL\"] > *:not(._._._._._._#_) { ---layout--row-gap: 0px; ---layout--column-gap: 0px; } /* Data: {\"type\":\"spacing\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"5ccq3o5Sup\",\"exampleContent\":null,\"instanceId\":\"x69-vIioBL\"},\"props\":{\"paddingTop\":{\"value\":0,\"unit\":\"px\"},\"paddingBottom\":{\"value\":0,\"unit\":\"px\"},\"paddingLeft\":{\"value\":0,\"unit\":\"px\"},\"paddingRight\":{\"value\":0,\"unit\":\"px\"},\"rowGap\":{\"value\":0,\"unit\":\"px\"},\"columnGap\":{\"value\":0,\"unit\":\"px\"}}} */</style><section class=\"-grid--custom\" data-instance-id=\"asBwEmOPVH\" data-path-scope=\"lnxQhs6Vnd.*\"><h5 class=\"-heading5--eyebrow--accent -lines--\" data-instance-id=\"mbf9rMs4TE\"><var data-path=\"lnxQhs6Vnd.*.title\"></var></h5><div class=\"-spacing--\" data-instance-id=\"x69-vIioBL\"></div><p class=\"--cZkTwpHuio -lines--\" data-instance-id=\"3QYyLNH-v3\"><var data-path=\"lnxQhs6Vnd.*.body\"></var></p></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "lnxQhs6Vnd"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-09-14T22:15:12.201Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-09-14T23:05:56.079Z",
+    "modifiedBy": {
+      "id": "6343011e9652d0482a350b68",
+      "name": "andiappan.ravi@omnia.ae",
+      "givenName": "Andiappan AR",
+      "familyName": "Ravi",
+      "email": "andiappan.ravi@omnia.ae",
+      "picture": "https://s.gravatar.com/avatar/694d17026d98fef61d7508f1ee31b6a8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+      "nickname": "andiappan.ravi"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "AGeZrIXg4Z",
+    "componentId": "N74VSSeVSt",
+    "name": "Name",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "000TX",
+    "revision": 34,
+    "model": "",
+    "view": "<style data-format-version=\"30\"></style><section class=\"-grid--custom\"></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-09-14T22:39:13.715Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-09-14T23:56:01.389Z",
+    "modifiedBy": {
+      "id": "6343011e9652d0482a350b68",
+      "name": "andiappan.ravi@omnia.ae",
+      "givenName": "Andiappan AR",
+      "familyName": "Ravi",
+      "email": "andiappan.ravi@omnia.ae",
+      "picture": "https://s.gravatar.com/avatar/694d17026d98fef61d7508f1ee31b6a8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+      "nickname": "andiappan.ravi"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "AGeZrIXg4Z",
+    "componentId": "N74VSSeVSt",
+    "name": "Name",
+    "description": "",
+    "status": "published",
+    "orderIdx": "000TX",
+    "revision": 30,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 7tVCW227wc */ .-grid--custom[data-instance-id=\"7tVCW227wc\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"7tVCW227wc\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 13; grid-row: 1; grid-row-end: 2; order: 0; position: relative; } .-grid--custom[data-instance-id=\"7tVCW227wc\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 1; grid-column-end: 13; grid-row: 2; grid-row-end: 3; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"7tVCW227wc\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":2,\"column\":13},\"order\":0},{\"from\":{\"row\":2,\"column\":1},\"to\":{\"row\":3,\"column\":13},\"order\":0}]}} */ /* --- */  /* Type: lines Id: mseJna8KPg Instance Id: 8nZ-cqmkeB */ .-lines--[data-instance-id=\"8nZ-cqmkeB\"]:not(._._._._._._#_) { text-align: center; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"mseJna8KPg\",\"exampleContent\":null,\"instanceId\":\"8nZ-cqmkeB\"},\"props\":{\"textAlign\":\"center\",\"lines\":null,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */ /* --- */  /* Type: lines Id: WLVg7V18yo Instance Id: LlMJdzvZos */ .-lines--[data-instance-id=\"LlMJdzvZos\"]:not(._._._._._._#_) { text-align: center; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"WLVg7V18yo\",\"exampleContent\":null,\"instanceId\":\"LlMJdzvZos\"},\"props\":{\"textAlign\":\"center\",\"lines\":null,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */</style><section class=\"-grid--custom\" data-instance-id=\"7tVCW227wc\"><h2 class=\"-lines--\" data-instance-id=\"8nZ-cqmkeB\"><a href=\"https://jsonplaceholder.typicode.com/posts\">FEAAS - External datasource</a></h2><p class=\"-lines--\" data-instance-id=\"LlMJdzvZos\"><a href=\"https://jsonplaceholder.typicode.com/posts\">https://jsonplaceholder.typicode.com/posts</a></p></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-09-14T22:39:13.715Z",
+    "deletedAt": "2024-09-14T23:55:39.53Z",
+    "modifiedAt": "2024-09-14T23:52:33.496Z",
+    "modifiedBy": {
+      "id": "6343011e9652d0482a350b68",
+      "name": "andiappan.ravi@omnia.ae",
+      "givenName": "Andiappan AR",
+      "familyName": "Ravi",
+      "email": "andiappan.ravi@omnia.ae",
+      "picture": "https://s.gravatar.com/avatar/694d17026d98fef61d7508f1ee31b6a8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+      "nickname": "andiappan.ravi"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "AGeZrIXg4Z",
+    "componentId": "N74VSSeVSt",
+    "name": "Name",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "000TX",
+    "revision": 30,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 7tVCW227wc */ .-grid--custom[data-instance-id=\"7tVCW227wc\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"7tVCW227wc\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 13; grid-row: 1; grid-row-end: 2; order: 0; position: relative; } .-grid--custom[data-instance-id=\"7tVCW227wc\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 1; grid-column-end: 13; grid-row: 2; grid-row-end: 3; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"7tVCW227wc\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":2,\"column\":13},\"order\":0},{\"from\":{\"row\":2,\"column\":1},\"to\":{\"row\":3,\"column\":13},\"order\":0}]}} */ /* --- */  /* Type: lines Id: mseJna8KPg Instance Id: 8nZ-cqmkeB */ .-lines--[data-instance-id=\"8nZ-cqmkeB\"]:not(._._._._._._#_) { text-align: center; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"mseJna8KPg\",\"exampleContent\":null,\"instanceId\":\"8nZ-cqmkeB\"},\"props\":{\"textAlign\":\"center\",\"lines\":null,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */ /* --- */  /* Type: lines Id: WLVg7V18yo Instance Id: LlMJdzvZos */ .-lines--[data-instance-id=\"LlMJdzvZos\"]:not(._._._._._._#_) { text-align: center; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"WLVg7V18yo\",\"exampleContent\":null,\"instanceId\":\"LlMJdzvZos\"},\"props\":{\"textAlign\":\"center\",\"lines\":null,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */</style><section class=\"-grid--custom\" data-instance-id=\"7tVCW227wc\"><h2 class=\"-lines--\" data-instance-id=\"8nZ-cqmkeB\"><a href=\"https://jsonplaceholder.typicode.com/posts\">FEAAS - External datasource</a></h2><p class=\"-lines--\" data-instance-id=\"LlMJdzvZos\"><a href=\"https://jsonplaceholder.typicode.com/posts\">https://jsonplaceholder.typicode.com/posts</a></p></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-09-14T22:39:13.715Z",
+    "deletedAt": "2024-09-14T23:54:27.657Z",
+    "modifiedAt": "2024-09-14T23:52:33.496Z",
+    "modifiedBy": {
+      "id": "6343011e9652d0482a350b68",
+      "name": "andiappan.ravi@omnia.ae",
+      "givenName": "Andiappan AR",
+      "familyName": "Ravi",
+      "email": "andiappan.ravi@omnia.ae",
+      "picture": "https://s.gravatar.com/avatar/694d17026d98fef61d7508f1ee31b6a8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+      "nickname": "andiappan.ravi"
+    }
+  }
+]

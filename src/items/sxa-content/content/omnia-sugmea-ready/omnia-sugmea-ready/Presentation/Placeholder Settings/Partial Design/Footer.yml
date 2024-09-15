@@ -1,0 +1,17 @@
+﻿---
+ID: "9292308a-bb92-42bb-b1da-88b3ada54b14"
+Parent: "3f6483d0-defb-4aa8-a571-419901104dad"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/omnia-sugmea-ready/omnia-sugmea-ready/Presentation/Placeholder Settings/Partial Design/Footer"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "178576e1-8d53-408a-b27d-1d593a0e4ec2"

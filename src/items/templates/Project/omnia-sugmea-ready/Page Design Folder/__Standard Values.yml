@@ -1,0 +1,19 @@
+﻿---
+ID: "06369d31-de2b-4b1c-9c47-445671ad2177"
+Parent: "de5cb9ad-3a47-4691-be2c-1c90a5372ea3"
+Template: "de5cb9ad-3a47-4691-be2c-1c90a5372ea3"
+Path: "/sitecore/templates/Project/omnia-sugmea-ready/Page Design Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {DE5CB9AD-3A47-4691-BE2C-1C90A5372EA3}
+    {1105B8F8-1E00-426B-BF1F-C840742D827B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb4bfe16-3021-4a3f-b050-0c9e09f2a400"

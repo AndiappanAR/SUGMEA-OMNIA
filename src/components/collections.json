@@ -362,7 +362,7 @@
         "collectionId": "-AC8JhQZKV",
         "name": "Athletes",
         "description": "Sample component featuring Athletes from connected Content Hub ONE instance.",
-        "status": "published",
+        "status": "changed",
         "versionCount": 1,
         "stagedVersionCount": 1,
         "embeddableVersionCount": 1,
@@ -370,16 +370,56 @@
           "Athlete"
         ],
         "createdAt": "2023-11-15T17:27:04.26Z",
-        "stagedAt": "2023-11-16T18:10:05.908Z",
+        "stagedAt": null,
         "publishedAt": "2023-11-16T18:10:05.908Z",
-        "modifiedAt": "2023-11-16T18:10:05.908Z",
+        "modifiedAt": "2024-09-14T22:13:56.296Z",
         "modifiedBy": {
-          "id": "63ed31bdc5dac322725263de",
-          "name": "Alexander Doroshenko",
-          "email": "alexander.doroshenko@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png",
-          "givenName": "Alexander",
-          "familyName": "Doroshenko"
+          "id": "6343011e9652d0482a350b68",
+          "name": "andiappan.ravi@omnia.ae",
+          "email": "andiappan.ravi@omnia.ae",
+          "picture": "https://s.gravatar.com/avatar/694d17026d98fef61d7508f1ee31b6a8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "nickname": "andiappan.ravi",
+          "givenName": "Andiappan AR",
+          "familyName": "Ravi"
+        },
+        "bundles": []
+      }
+    ]
+  },
+  {
+    "libraryId": "generated",
+    "id": "-oz9PK8Lgw",
+    "name": "jsonplaceholder",
+    "isDefault": false,
+    "orderIdx": "",
+    "createdAt": "2024-09-14T22:14:01.999Z",
+    "modifiedAt": "2024-09-14T22:14:01.999Z",
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "N74VSSeVSt",
+        "collectionId": "-oz9PK8Lgw",
+        "name": "posts",
+        "description": "posts",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "lnxQhs6Vnd"
+        ],
+        "createdAt": "2024-09-14T22:14:12.527Z",
+        "stagedAt": "2024-09-14T23:05:56.079Z",
+        "publishedAt": "2024-09-14T23:05:56.079Z",
+        "modifiedAt": "2024-09-14T23:56:01.389Z",
+        "modifiedBy": {
+          "id": "6343011e9652d0482a350b68",
+          "name": "andiappan.ravi@omnia.ae",
+          "email": "andiappan.ravi@omnia.ae",
+          "picture": "https://s.gravatar.com/avatar/694d17026d98fef61d7508f1ee31b6a8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+          "nickname": "andiappan.ravi",
+          "givenName": "Andiappan AR",
+          "familyName": "Ravi"
         },
         "bundles": []
       }

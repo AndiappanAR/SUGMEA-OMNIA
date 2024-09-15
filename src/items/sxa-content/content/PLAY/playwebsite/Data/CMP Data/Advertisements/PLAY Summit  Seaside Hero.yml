@@ -19,13 +19,13 @@ Languages:
     - ID: "69e8418c-5f11-40a8-9c0d-9e5eacc1229e"
       Hint: Hero
       Value: |
-        <image stylelabs-content-id="32027" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/32027/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/7906aad20b9b4c9eb2652417d7731945?v=9c91ce63" mediaid="" stylelabs-content-type="Image" alt="swimmer.jpg" height="1600" width="2400" />
+        <image mediaid="{CE8ED859-B77B-4994-9527-28F635FB0021}" />
     - ID: "81af116e-235f-44ad-a8e0-794bc3504c7c"
       Hint: Slogan
       Value: "READY | STEADY | PLAY!"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5103723c-8a09-4dba-9e16-4c7db09edf3d"
+      Value: "a6538039-f262-4eee-9889-a571a0dffab6"
     - ID: "957519d5-5c6b-40c0-b462-b1dac8f12a03"
       Hint: Eyebrow
       Value: Sports and Recreation Expo

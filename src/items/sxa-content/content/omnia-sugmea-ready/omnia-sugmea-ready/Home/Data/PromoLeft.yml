@@ -1,0 +1,27 @@
+﻿---
+ID: "bbea584e-85cf-4699-83a8-02cfd2803fc7"
+Parent: "e7ffc9cb-6ea8-49a1-b063-3e88e26eacf7"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: "/sitecore/content/omnia-sugmea-ready/omnia-sugmea-ready/Home/Data/PromoLeft"
+BranchID: "c0db8366-5aec-41ed-b9a4-0b06b77f5d93"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{140900C2-20E6-43DA-93B7-C1E75D0B6C20}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <h3>Latest Mountain Bikes</h3>
+        <p>The brand new mountain bikes are out now, be quick!</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0578b5a1-7668-4533-b7be-6b898350fe0d"
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{419E2FE0-E05C-478F-A33C-84071ADB5893}" />

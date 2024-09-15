@@ -1,0 +1,21 @@
+﻿---
+ID: "1bc34529-5ac7-4fc8-ab8d-8c46801724b8"
+Parent: "51c6ab3d-92f1-42c5-aa97-24ba32bea39d"
+Template: "0a70fa73-8923-4a6e-abf3-4134f25f3221"
+Path: "/sitecore/content/omnia-sugmea-ready/omnia-sugmea-ready/Presentation"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1DB2D249-8FDB-4D9F-A357-841D6A51ABFA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b332387c-cf1c-466e-bc47-0df68e0d9d16"
