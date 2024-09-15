@@ -370,7 +370,7 @@
           "Athlete"
         ],
         "createdAt": "2023-11-15T17:27:04.26Z",
-        "stagedAt": "2023-11-16T18:10:05.908Z",
+        "stagedAt": null,
         "publishedAt": "2023-11-16T18:10:05.908Z",
         "modifiedAt": "2024-09-14T22:13:56.296Z",
         "modifiedBy": {
@@ -382,19 +382,7 @@
           "givenName": "Andiappan AR",
           "familyName": "Ravi"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "TlH-4IjNyG",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-09-14T22:13:55.529Z",
-            "modifiedAt": "2024-09-14T22:13:55.529Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
@@ -421,7 +409,7 @@
           "lnxQhs6Vnd"
         ],
         "createdAt": "2024-09-14T22:14:12.527Z",
-        "stagedAt": "2024-09-14T23:52:33.496Z",
+        "stagedAt": "2024-09-14T23:05:56.079Z",
         "publishedAt": "2024-09-14T23:05:56.079Z",
         "modifiedAt": "2024-09-14T23:56:01.389Z",
         "modifiedBy": {
@@ -433,19 +421,7 @@
           "givenName": "Andiappan AR",
           "familyName": "Ravi"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "N74VSSeVSt",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-09-14T22:14:45.26Z",
-            "modifiedAt": "2024-09-14T22:14:45.26Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
