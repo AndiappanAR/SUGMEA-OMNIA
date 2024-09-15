@@ -1,7 +1,7 @@
 {
     "renderingHosts": {
         "playwebsite": {
-            "path": "./src/rendering",
+            "path": "./src/playwebsite-omnia",
             "nodeVersion": "20.10.0",
             "jssDeploymentSecret":"511cdfab92b7440db866ac0fb817b490",
             "enabled": true,
