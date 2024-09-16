@@ -8,7 +8,6 @@ import {
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import { Vendor } from 'src/types/vendor';
-import { getPublicAssetUrl } from '../../../src/helpers/PublicUrlHelper';
 
 type VendorsGridProps = ComponentProps & {
   fields: {
@@ -19,11 +18,14 @@ type VendorsGridProps = ComponentProps & {
 const VendorsGrid = (props: VendorsGridProps): JSX.Element => {
   const { sitecoreContext } = useSitecoreContext();
 
-  const publicUrl = getPublicAssetUrl();
   const isPageEditing = sitecoreContext.pageState === LayoutServicePageState.Edit;
-  const hasVendors = !!props.fields;
+  const hasVendors = !!props?.fields;
 
   !hasVendors && console.warn('Missing Datasource Item');
+
+  const businessLogicForRating = (str: number) => {
+    return '*'.repeat(str).substring(0, 5);
+  };
 
   const pageEditingMissingDatasource = !hasVendors && isPageEditing && (
     <p>Missing Datasource Item</p>
@@ -31,71 +33,55 @@ const VendorsGrid = (props: VendorsGridProps): JSX.Element => {
 
   const vendors =
     props.fields?.items &&
-    props.fields.items.map((vendor, index) => (
-      <Link key={index} href={vendor.url} passHref className="grid-item">
-        <Image field={vendor.fields.Logo} alt={vendor.fields.Name.value} width={265} height={265} />
-        <div className="item-details">
-          <Text tag="p" field={vendor.fields.Name} />
-        </div>
-      </Link>
-    ));
+    props.fields.items.map(
+      (vendor, index) =>
+        vendor?.fields?.Name && (
+          <Link key={index} href={vendor?.url} passHref className="grid-item">
+            <div className="item-details"></div>
+            <li key={vendor?.fields?.Name?.value}>
+              <div className="flex items-center gap-x-6">
+                <Image
+                  field={vendor?.fields?.Logo}
+                  alt={vendor?.fields?.Name?.value}
+                  className="border border-gray-400 h-16 w-16 rounded-full"
+                />
 
-  const downArrow = <img src={`${publicUrl}/assets/img/icons/down-arrow.svg`} alt="^" />;
+                <div>
+                  <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900">
+                    <Text field={vendor?.fields?.Name} />
+                  </h3>
+
+                  <p className="text-base font-semibold leading-6 text-indigo-600">
+                    Business logics : {businessLogicForRating(vendor?.fields?.Name?.value?.length)}
+                  </p>
+                </div>
+              </div>
+            </li>
+          </Link>
+        )
+    );
 
   const vendorsGrid = hasVendors && (
-    <section className="section">
-      <div className="section-content container">
-        <h1 className="section-content-title">All Event Vendors</h1>
-        <div className="item-grid">
-          <div className="grid-filters">
-            <span>Filter by</span>
-            <button
-              type="button"
-              className="dropdown-filter"
-              id="menu-button-schedule"
-              aria-expanded="true"
-              aria-haspopup="true"
-              aria-label="schedule"
-            >
-              Schedule
-              {downArrow}
-            </button>
-            <button
-              type="button"
-              className="dropdown-filter"
-              id="menu-button-speakers"
-              aria-expanded="true"
-              aria-haspopup="true"
-              aria-label="speakers"
-            >
-              Speakers
-              {downArrow}
-            </button>
-            <button
-              type="button"
-              className="dropdown-filter"
-              id="menu-button-category"
-              aria-expanded="true"
-              aria-haspopup="true"
-              aria-label="category"
-            >
-              Category
-              {downArrow}
-            </button>
-            <button
-              type="button"
-              className="dropdown-filter"
-              id="menu-button-sport"
-              aria-expanded="true"
-              aria-haspopup="true"
-              aria-label="sport"
-            >
-              Sport
-              {downArrow}
-            </button>
+    <section className="section px-8 py-8 border border-gray-400">
+      <div className=" py-24 sm:py-32">
+        <div className="mx-auto grid max-w-7xl gap-x-8 gap-y-20 px-6 lg:px-8 xl:grid-cols-3">
+          <div className="max-w-2xl">
+            <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              Meet our elite vendors
+            </h2>
+            <br></br>
+            <hr />
+            <p className="mt-6 text-lg leading-8 text-gray-600">
+              Libero fames augue nisl porttitor nisi, quis. Id ac elit odio vitae elementum enim
+              vitae ullamcorper suspendisse.
+            </p>
           </div>
-
-          <div className="grid-content">{vendors}</div>
+          <ul
+            role="list"
+            className="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2"
+          >
+            {vendors}
+          </ul>
         </div>
       </div>
     </section>
