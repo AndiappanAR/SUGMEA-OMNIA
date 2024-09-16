@@ -27,7 +27,7 @@ SharedFields:
   Value: *
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
-  Value: Default
+  Value: Local
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{23E42340-77BE-49FC-A7C4-77D3CB545223}"
@@ -38,4 +38,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cbb891f5-ea61-43e8-967e-0f94aedd7eb0"
+      Value: "c6b84258-ad24-4fab-a73e-463f27dfac97"

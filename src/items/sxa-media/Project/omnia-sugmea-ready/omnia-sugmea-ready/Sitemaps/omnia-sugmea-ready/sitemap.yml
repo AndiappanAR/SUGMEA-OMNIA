@@ -1,5 +1,5 @@
 ﻿---
-ID: "f1af4a4d-5e37-47e6-94ed-11aca105917b"
+ID: "51459fe1-bcd5-4a2f-b7bf-9c18a13b36e1"
 Parent: "0c3dace1-7723-481e-9a55-bf26882ee379"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: "/sitecore/media library/Project/omnia-sugmea-ready/omnia-sugmea-ready/Sitemaps/omnia-sugmea-ready/sitemap"
@@ -9,8 +9,8 @@ SharedFields:
   Value: People/32x32/cube_molecule.png
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "64fccf2f-46ae-41b9-a5b1-94a7b7d79c40"
-  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8dXJsc2V0IHhtbG5zOnhodG1sPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiB4bWxucz0iaHR0cDovL3d3dy5zaXRlbWFwcy5vcmcvc2NoZW1hcy9zaXRlbWFwLzAuOSI+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3htYy1kZW1vcG9ydGFsMTRiMWEtZGVtbzU3MzVjZXMyNjdjLWRlZmF1bHRkYzQ5LnNpdGVjb3JlY2xvdWQuaW8vPC9sb2M+DQogICAgPGxhc3Rtb2Q+MjAyNC0wOS0xNTwvbGFzdG1vZD4NCiAgICA8Y2hhbmdlZnJlcT5kYWlseTwvY2hhbmdlZnJlcT4NCiAgICA8cHJpb3JpdHk+MC41PC9wcmlvcml0eT4NCiAgPC91cmw+DQo8L3VybHNldD4=
+  BlobID: "c6e97d80-ec34-4817-b5f2-16af650ae1f5"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8dXJsc2V0IHhtbG5zOnhodG1sPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiB4bWxucz0iaHR0cDovL3d3dy5zaXRlbWFwcy5vcmcvc2NoZW1hcy9zaXRlbWFwLzAuOSI+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3htYy1kZW1vcG9ydGFsMTAyYzYtZGVtbzU3MzVjZXNjZjFjLWRlZmF1bHQ1N2MwLnNpdGVjb3JlY2xvdWQuaW8vPC9sb2M+DQogICAgPGxhc3Rtb2Q+MDAwMS0wMS0wMTwvbGFzdG1vZD4NCiAgICA8Y2hhbmdlZnJlcT5kYWlseTwvY2hhbmdlZnJlcT4NCiAgICA8cHJpb3JpdHk+MC41PC9wcmlvcml0eT4NCiAgPC91cmw+DQo8L3VybHNldD4=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
   Value: 380
@@ -38,7 +38,7 @@ Languages:
       Value: sitemap
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6e393a99-bfd9-4a8b-a29b-38a5d0648d38"
+      Value: "bea13313-4ad3-450e-9086-d89a9cacf1ee"
     - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
       Hint: Description
       Value: Sitecore Experience Accelelator sitemap file

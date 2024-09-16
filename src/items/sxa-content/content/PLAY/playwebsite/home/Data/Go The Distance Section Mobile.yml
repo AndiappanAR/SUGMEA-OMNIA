@@ -1,8 +1,8 @@
 ﻿---
-ID: "5f6adee8-f8e2-4a92-85e3-0c1d0a82faf1"
+ID: "d0e1a7ce-97c0-4116-8272-6898573c5c16"
 Parent: "99536ff1-02bf-5b2e-a94a-1bbba4cf50fa"
 Template: "675a1839-6fe8-59a6-a1e4-6ccbdbf2e966"
-Path: /sitecore/content/PLAY/playwebsite/home/Data/Go The Distance Section
+Path: /sitecore/content/PLAY/playwebsite/home/Data/Go The Distance Section Mobile
 Languages:
 - Language: en
   Versions:
@@ -13,7 +13,7 @@ Languages:
       Value: View Vendors
     - ID: "07d6c7b7-7c29-540b-b602-00b15c377ed2"
       Hint: Title
-      Value: "GO THE DISTANCE - DESKTOP"
+      Value: "GO THE DISTANCE - MOBILE"
     - ID: "0c09865d-f9e6-564a-8dc9-f46c7e49a687"
       Hint: RightLogo
       Value: |
@@ -39,7 +39,7 @@ Languages:
         <image mediaid="{21C5D87C-3E77-4AFA-82FF-665B15EA7806}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "12fc5078-e391-4f4f-ac45-8d306273dd86"
+      Value: "5072882a-d344-47b0-aa1e-0a0743227ec6"
     - ID: "a8282684-a5d5-57be-b6f6-a509c6ccdbe3"
       Hint: LeftTitle
       Value: 48 Talks and Workshops

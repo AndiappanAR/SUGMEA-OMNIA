@@ -174,12 +174,44 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{EB2C8403-F00A-4976-8C26-75224DD8EBD1}"
-              s:ds=""
               s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;CacheClearingBehavior=Clear%20on%20publish"
               s:ph="/headless-main/sxa-main/container-1-1" />
             <r
               uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}"
-              s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles" />
+              s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:pt="personalizationTest"
+              s:uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{B29982A0-EF87-47E7-9C4D-72DD8E4F8A68}"
+                    s:name="a0a8719487ed408c9ea80b39033b3619">
+                    <conditions>
+                      <condition
+                        uid="C42890514EED4B8D8879E2912B6EF312"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="a0a8719487ed408c9ea80b39033b3619" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{8F7BECEE-7DEA-4760-9DB6-65B97F4B3256}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="d0e1a7ce-97c0-4116-8272-6898573c5c16" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="1D7B2B8C5FEF427394BED74B9FD28CEE"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
             <r
               uid="{004EEEA1-32B0-4582-BD0C-FA7EFFB14182}">
               <p:d />
@@ -205,7 +237,7 @@ Languages:
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
       Hint: Title
-      Value: Homyyyy
+      Value: Home
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
@@ -214,7 +246,7 @@ Languages:
       Value: home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e3c8dabb-f56e-45e2-9af4-b4512da11484"
+      Value: "bad6a01f-16e5-48c7-8091-a30928b2f9d1"
 - Language: "fr-CA"
   Versions:
   - Version: 1
