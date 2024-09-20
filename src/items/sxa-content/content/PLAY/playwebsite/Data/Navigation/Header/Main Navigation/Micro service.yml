@@ -1,0 +1,39 @@
+﻿---
+ID: "6b54b8f5-62f7-4e16-b2e7-c2dcf79aae0b"
+Parent: "842934e4-186d-4a9d-92f2-d3a01ef0cba9"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/Navigation/Header/Main Navigation/Micro service
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ec51625-5f86-4a18-8cf0-e80d33da041c"
+      Hint: Title
+      Value: Micro service
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35a9b808-df54-4163-b244-c65ce54dd59f"
+    - ID: "a277748b-2c48-44a6-a99f-c9f353933027"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://sugomnia-middleware-fjqp.vercel.app/" anchor="" target="" />
+- Language: "fr-CA"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: À propos de nous
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac810401-bfe5-41f8-99ee-e409605498bd"
+    - ID: "a277748b-2c48-44a6-a99f-c9f353933027"
+      Hint: Link
+      Value: |
+        <link class="" id="{2717574C-48A0-5469-85A8-A332DF71F1E4}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/PLAY/playwebsite/home/about-us" />

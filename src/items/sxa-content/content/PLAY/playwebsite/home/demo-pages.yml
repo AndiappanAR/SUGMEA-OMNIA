@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{3C8449A6-8457-4B0E-8288-ADD2CF8BB197}" />
+    <image mediaid="{1B985F4B-A1A3-4D40-9306-97E4255D2AB2}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
@@ -74,7 +74,7 @@ Languages:
       Value: <r />
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
       Hint: Title
-      Value: Demo Pages
+      Value: Demo Pages12
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
@@ -83,7 +83,7 @@ Languages:
       Value: Demo Pages
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "af9de27d-ef75-46ec-b7b0-127593d0586b"
+      Value: "e60662ae-1e14-4cf2-a0ea-7161f62069b0"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: "Here is a list of all currently available demo pages:"

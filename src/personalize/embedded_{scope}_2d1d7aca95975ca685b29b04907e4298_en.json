@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/7cb43630-a958-4b7a-a71e-8eda76068658",
   "ref": "7cb43630-a958-4b7a-a71e-8eda76068658",
   "name": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
-  "modifiedByRef": "auth0|6343011e9652d0482a350b68",
-  "modifiedAt": "2024-09-16T18:21:41.684Z",
-  "revision": 26,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2024-09-16T21:04:26.499Z",
+  "revision": 28,
   "archived": false,
   "friendlyId": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-16T18:21:41.814Z",
+    "modifiedAt": "2024-09-16T21:04:26.537Z",
     "splits": [
       {
         "template": "{\"variantId\": \"445bdf88528b4f90a9553c836d119d04\"}",
@@ -60,15 +60,15 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "a57202a1-ae47-4469-bd32-8c99e467cafa",
-      "name": "Completed Questionnaire",
+      "ref": "3f6b372a-328b-496f-9661-955b948a6c8a",
+      "name": "Persona",
       "tasks": [
         {
           "implementation": "templateRenderTask",
           "input": {
             "inputType": "templateRenderTaskInput",
             "type": "application/json",
-            "template": "{\"variantId\": \"445bdf88528b4f90a9553c836d119d04\"}"
+            "template": "{\"variantId\": \"a0a8719487ed408c9ea80b39033b3619\"}"
           }
         },
         {
@@ -81,7 +81,7 @@
                 "name": "Combined condition groups",
                 "description": "Combined templates within condition group for targeted experience",
                 "ruleData": {
-                  "expression": "(function() {\r\n  if (!guest.sessions || guest.sessions.length === 0) {\r\n    return false;\r\n  }\r\n  var session = guest.sessions[0];\r\n\r\n  if (session) {\r\n    if (session.status === 'OPEN') {\r\n      for (var j = 0; j < session.events.length; j++) {\r\n\r\n        if (session.events[j].type === 'AUDIENCE_PREFERENCE') {\r\n          var event = session.events[j].arbitraryData;\r\n          return true;\r\n        }\r\n      }\r\n    }\r\n  }\r\n\r\n  return false;\r\n})();"
+                  "expression": "(function () {\n    load(\"classpath:ua-parser.js\");\n    var comparator = \"is\";\n    var deviceTypes = \"mobile\";\n    var deviceTypesArray = deviceTypes.toLowerCase().split(',');\n    var desktopOSTypes = ['Mac OS', 'Windows', 'Ubuntu', 'Unix', 'Linux', 'Chromium OS'];\n    var deviceMatch = false;\n\n    if (request && request.requestDetails && request.requestDetails.headers && request.requestDetails.headers['User-Agent']) {\n        var parser = new UAParser();\n        parser.setUA(request.requestDetails.headers['User-Agent']);\n        var uaParsed = parser.getResult();\n        if (uaParsed.device.type) {\n            var deviceType = uaParsed.device.type.toLowerCase();\n            if (deviceType !== 'mobile' && deviceType !== 'tablet') {\n                deviceMatch = deviceTypesArray.indexOf('other') >= 0;\n            } else {\n                for (var k = 0; k < deviceTypesArray.length; k++) {\n                    if (deviceType === deviceTypesArray[k].toLowerCase()) {\n                        deviceMatch = true;\n                        break;\n                    }\n                }\n            }\n        } else {\n            var device = 'other';\n            if (uaParsed.os.name) {\n                for (var i = 0; i < desktopOSTypes.length; i++) {\n                    if (uaParsed.os.name.toLowerCase() === desktopOSTypes[i].toLowerCase()) {\t\n                        device = 'desktop';\n                        break;\n                    }\n                }\n            }\n            deviceMatch = deviceTypesArray.indexOf(device) >= 0;\n        }\n    }\n    \n    return (comparator === \"is\") && deviceMatch || (comparator === \"is not\") && !deviceMatch;\n})();"
                 }
               }
             ]

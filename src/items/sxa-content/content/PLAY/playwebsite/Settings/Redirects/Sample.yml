@@ -1,0 +1,20 @@
+﻿---
+ID: "350af256-5016-402c-a6d0-92a2b523b187"
+Parent: "c2871899-de38-4a1b-a7fa-14533c8c340f"
+Template: "f4fb6125-f113-4373-8aa2-4648c2c1960e"
+Path: /sitecore/content/PLAY/playwebsite/Settings/Redirects/Sample
+SharedFields:
+- ID: "5ecfffc9-d530-4512-b757-9e9830f07d5a"
+  Hint: UrlMapping
+  Value: "%2fredirect-me=%2Fi-redirected"
+- ID: "980dfa07-41d4-4c4e-ab28-de657afdb6bc"
+  Hint: RedirectType
+  Value: Redirect301
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc095291-6a89-43f7-860b-6f7cf4e357e2"

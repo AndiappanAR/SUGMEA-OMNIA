@@ -421,7 +421,19 @@
           "givenName": "Andiappan AR",
           "familyName": "Ravi"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "N74VSSeVSt",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-09-19T08:24:43.529Z",
+            "modifiedAt": "2024-09-19T08:24:43.529Z"
+          }
+        ]
       }
     ]
   }
